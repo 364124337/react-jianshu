@@ -1,5 +1,6 @@
 {
   "name": "jianshu",
+  "homepage": "https://364124337.github.io/react-jianshu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
